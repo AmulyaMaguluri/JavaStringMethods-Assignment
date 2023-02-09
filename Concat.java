@@ -1,4 +1,4 @@
-public class StringConcat {
+public class Concat {
     public static void main(String args[]){
         String s1="java string";
 
